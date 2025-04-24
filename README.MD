@@ -31,13 +31,18 @@ Finding and understanding EU funding is **needlessly complex**. Current tools li
 
 ---
 Installation and run
-
+```
 git clone https://github.com/yourname/eu-grant-navigator.git
 cd eu-grant-navigator
-
+```
+```
 # Run from project root
 python -m demo.app
-
+```
+for running UI 
+```
+streamlit run demo/app.py
+```
 
 
 ## 🧠 How It Works (Architecture)
