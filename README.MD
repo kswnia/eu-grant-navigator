@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Why This Project Exists
+##  Why This Project Exists
 
 Finding and understanding EU funding is **needlessly complex**. Current tools like [GrantsFinder](https://www.grantsfinder.eu/) help you filter options, but:
 
@@ -18,14 +18,14 @@ Finding and understanding EU funding is **needlessly complex**. Current tools li
 
 ---
 
-## ✅ What It Does
+##  What It Does
 
-- 💬 Ask any question in plain language:
-  - _“Can a solo developer in Estonia get EU funding for climate projects?”_
-- 📚 Finds and injects relevant context from official EU sources (docs, portals)
-- 🔗 Answers include **clickable citations** to exact source URLs
-- 🧠 Built to support future upgrades like **graph reasoning** and **semantic search**
-- 🛠️ Works offline using local LLMs (via Ollama or LM Studio)
+-  Ask any question in plain language:
+- _“Can a solo developer in Estonia get EU funding for climate projects?”_
+-  Finds and injects relevant context from official EU sources (docs, portals)
+-  Answers include **clickable citations** to exact source URLs
+-  Built to support future upgrades like **graph reasoning** and **semantic search**
+-  Works offline using local LLMs (via Ollama or LM Studio)
 
 ---
 
