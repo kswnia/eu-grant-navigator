@@ -31,9 +31,14 @@ Finding and understanding EU funding is **needlessly complex**. Current tools li
 
 ---
 Installation and run
+it made with python 3.10.0
+
 ```
 git clone https://github.com/yourname/eu-grant-navigator.git
 cd eu-grant-navigator
+```
+```
+pip install -r requirements.txt
 ```
 ```
 # Run from project root
